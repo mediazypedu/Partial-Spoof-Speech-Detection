@@ -1,0 +1,108 @@
+dev_score_mil_partial
+CM SYSTEM
+   EER            = 2.978179555 % (Equal error rate for countermeasure)
+
+TANDEM
+   min-tDCF       = 0.081112202
+
+eval_score_mil_partial
+CM SYSTEM
+   EER            = 6.133315758 % (Equal error rate for countermeasure)
+
+TANDEM
+   min-tDCF       = 0.157771534
+
+dev_score_local_mil_partial
+CM SYSTEM
+   EER            = 3.062277118 % (Equal error rate for countermeasure)
+TANDEM
+   min-tDCF       = 0.076135181
+
+eval_score_local_mil_partial
+CM SYSTEM
+   EER            = 5.830349788 % (Equal error rate for countermeasure)
+TANDEM
+   min-tDCF       = 0.144767756
+
+
+dev_score_mil_2019
+CM SYSTEM
+   EER            = 0.313964702 % (Equal error rate for countermeasure)
+TANDEM
+   min-tDCF       = 0.009751756
+
+eval_score_mil_2019
+CM SYSTEM
+   EER            = 4.050659792 % (Equal error rate for countermeasure)
+TANDEM
+   min-tDCF       = 0.102658482
+
+dev_score_local_mil_2019
+CM SYSTEM
+   EER            = 0.313964702 % (Equal error rate for countermeasure)
+TANDEM
+   min-tDCF       = 0.009751756
+
+eval_score_local_mil_2019
+CM SYSTEM
+   EER            = 2.706880256 % (Equal error rate for countermeasure)
+TANDEM
+   min-tDCF       = 0.063890171
+
+
+dev_score_mil_partialto2019
+CM SYSTEM
+   EER            = 1.140925237 % (Equal error rate for countermeasure)
+
+TANDEM
+   min-tDCF       = 0.030850838
+
+eval_score_mil_partialto2019
+CM SYSTEM
+   EER            = 6.403900900 % (Equal error rate for countermeasure)
+
+TANDEM
+   min-tDCF       = 0.203448458
+
+
+dev_score_local_mil_partialto2019
+CM SYSTEM
+   EER            = 1.169518689 % (Equal error rate for countermeasure)
+
+TANDEM
+   min-tDCF       = 0.033692347
+
+eval_score_local_mil_partialto2019
+CM SYSTEM
+   EER            = 5.166163881 % (Equal error rate for countermeasure)
+
+TANDEM
+   min-tDCF       = 0.140248551
+
+dev_score_mil_2019topartial
+CM SYSTEM
+   EER            = 9.885402990 % (Equal error rate for countermeasure)
+
+TANDEM
+   min-tDCF       = 0.209837551
+
+eval_score_mil_2019topartial
+CM SYSTEM
+   EER            = 15.758365223 % (Equal error rate for countermeasure)
+
+TANDEM
+   min-tDCF       = 0.360606585
+
+dev_score_local_mil_2019topartial
+CM SYSTEM
+   EER            = 8.041421007 % (Equal error rate for countermeasure)
+
+TANDEM
+   min-tDCF       = 0.178370458
+
+eval_score_local_mil_2019topartial
+CM SYSTEM
+   EER            = 12.767057490 % (Equal error rate for countermeasure)
+
+TANDEM
+   min-tDCF       = 0.273250019
