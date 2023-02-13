@@ -1,4 +1,4 @@
 # Partial Spoof Speech Detection
-项目参考 https://github.com/nii-yamagishilab/project-NN-Pytorch-scripts
-模型权重及测试代码 https://pan.baidu.com/s/1e_Zv-3T6T1iXObA8yG5eZg 提取码: hqne 
-有疑问可以联系 media_zyp_edu@163.com
+模型权重网盘链接：https://pan.baidu.com/s/1zN5vJgo0U_jRWirZpBo-Yw 
+提取码：8b6q
+放置/42/output对应文件夹下可以测试
